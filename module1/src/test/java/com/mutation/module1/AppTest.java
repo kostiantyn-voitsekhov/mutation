@@ -1,4 +1,4 @@
-package com.mutation;
+package com.mutation.module1;
 
 
 import org.junit.jupiter.api.Assertions;

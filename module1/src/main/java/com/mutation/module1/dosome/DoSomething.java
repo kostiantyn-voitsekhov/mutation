@@ -1,4 +1,4 @@
-package com.mutation.dosome;
+package com.mutation.module1.dosome;
 
 public class DoSomething {
 

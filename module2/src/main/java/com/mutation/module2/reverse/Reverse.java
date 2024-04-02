@@ -1,4 +1,4 @@
-package com.mutation.reverse;
+package com.mutation.module2.reverse;
 
 public class Reverse {
 

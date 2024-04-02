@@ -1,4 +1,4 @@
-package com.mutation.reverse;
+package com.mutation.module2.reverse;
 
 import org.junit.jupiter.api.Test;
 

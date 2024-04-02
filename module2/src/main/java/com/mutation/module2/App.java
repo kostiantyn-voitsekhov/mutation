@@ -1,4 +1,4 @@
-package com.mutation;
+package com.mutation.module2;
 
 /**
  * Hello world!
