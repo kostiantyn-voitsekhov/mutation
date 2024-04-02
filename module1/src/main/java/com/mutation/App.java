@@ -1,4 +1,4 @@
-package io.jitpack;
+package com.mutation;
 
 /**
  * Hello world!
